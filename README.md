@@ -12,7 +12,7 @@ Adapted from: https://stackoverflow.com/questions/59232327/python-how-to-always-
 
 ## Do the numbers work?
 
-These are theoretical cards meant for testing the pre-checks that happen on a payment screen before payment is submitted. The number, CVV, and expiration are all theoretically valid, but their randomness makes it next to impossible that a given card is real. 
+These are theoretical cards meant for testing the pre-checks that happen on a payment screen before payment is submitted. This utility does not generate real-world card information. For example, real CSV numbers are generated using an algorithm tied to the card number and other data points - something this utility can't do. 
 
 ## Need different card numbers?
 
